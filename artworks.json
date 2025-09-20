@@ -3,37 +3,37 @@
     "name": "artworkM000",
     "title": "アリゾナドリーム",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM001",
     "title": "カエルねこ",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM002",
     "title": "花瓶ねこ",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM003",
     "title": "白フワねこ",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM004",
     "title": "月星ねこ",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM005",
     "title": "月夜の二匹",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM006",
@@ -45,37 +45,37 @@
     "name": "artworkM007",
     "title": "夜に踊るねこ",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM008",
     "title": "On The Sunny Day",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM009",
     "title": "桑木庵",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM010",
     "title": "白昼夢庵",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM011",
     "title": "カフェがいあ",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM012",
     "title": "絵日記 - 少女",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM013",
@@ -87,13 +87,13 @@
     "name": "artworkM014",
     "title": "絵日記 - 散歩",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM015",
     "title": "絵日記 - 読書",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM016",
@@ -111,19 +111,19 @@
     "name": "artworkM018",
     "title": "猫のハナちゃん自転車が好き",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM019",
     "title": "パラソル乙女",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM020",
     "title": "人力宇宙船",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM021",
@@ -135,7 +135,7 @@
     "name": "artworkM022",
     "title": "あじさい",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM023",
@@ -147,19 +147,19 @@
     "name": "artworkM024",
     "title": "おいしいもの手帖 - キャンディ",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM025",
     "title": "靴",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM026",
     "title": "贈り物 - 紅茶",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM027",
@@ -171,13 +171,13 @@
     "name": "artworkM028",
     "title": "おいしいもの手帖 - グレープシードオイル",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM029",
     "title": "スパークリングウォーター",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM030",
@@ -189,7 +189,7 @@
     "name": "artworkM031",
     "title": "人魚",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM032",
@@ -213,13 +213,13 @@
     "name": "artworkM035",
     "title": "Float",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM036",
     "title": "ヴァイオリニスト",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM037",
@@ -231,7 +231,7 @@
     "name": "artworkM038",
     "title": "ハープ奏者",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM039",
@@ -243,13 +243,13 @@
     "name": "artworkM040",
     "title": "アコーディオン奏者",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM041",
     "title": "コントラバス奏者",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM042",
@@ -261,37 +261,37 @@
     "name": "artworkM043",
     "title": "X'mas - キリンとウサギ",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM044",
     "title": "X'mas - ツリードレス",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM045",
     "title": "X'mas - 眠る少女",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM046",
     "title": "X'mas - 森の馬と少女",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM047",
     "title": "X'mas - 有翼のライオン",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM048",
     "title": "X'mas - ラッパ吹きの天使",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM049",
@@ -309,19 +309,19 @@
     "name": "artworkM051",
     "title": "森のうさぎ",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM052",
     "title": "跳びはねる",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM053",
     "title": "ブラウニー",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM054",
@@ -357,7 +357,7 @@
     "name": "artworkM059",
     "title": "魔笛より - パパゲーノ",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM060",
@@ -369,7 +369,7 @@
     "name": "artworkM061",
     "title": "魔笛より - パパゲーノ・パパゲーナ",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM062",
@@ -393,13 +393,13 @@
     "name": "artworkM065",
     "title": "黒猫二匹",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM066",
     "title": "夜の花と",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM067",
@@ -417,7 +417,7 @@
     "name": "artworkM069",
     "title": "森に暮らす日 - ことり",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM070",
@@ -459,49 +459,49 @@
     "name": "artworkM076",
     "title": "三人のジプシー",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM077",
     "title": "ローレライ",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM078",
     "title": "魔法の笛1",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM079",
     "title": "魔法の笛2",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM080",
     "title": "異教の夕べ（港）",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM081",
     "title": "異教の夕べ（浜辺）",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM082",
     "title": "入学祝い",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM083",
     "title": "暑中見舞い",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM084",
@@ -519,31 +519,31 @@
     "name": "artworkM086",
     "title": "年賀状2017",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM087",
     "title": "年賀状2018",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM088",
     "title": "年賀状2019",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM089",
     "title": "笛吹く人",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM090",
     "title": "Thanks for harvesting",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM091",
@@ -561,13 +561,13 @@
     "name": "artworkM093",
     "title": "小さなこのバラを...",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM094",
     "title": "至上善",
     "showOnFront": false,
-    "showOnGallery": true
+    "showOnGallery": false
   },
   {
     "name": "artworkM095",
@@ -579,43 +579,43 @@
     "name": "artworkF000",
     "title": "朝まだき 犬をお供に連れて",
     "showOnFront": false,
-    "showOnGallery": false
+    "showOnGallery": true
   },
   {
     "name": "artworkF001",
     "title": "人知れずそこにある風景",
     "showOnFront": false,
-    "showOnGallery": false
+    "showOnGallery": true
   },
   {
     "name": "artworkF002",
     "title": "福地鶏",
     "showOnFront": false,
-    "showOnGallery": false
+    "showOnGallery": true
   },
   {
     "name": "artworkF003",
     "title": "日常",
     "showOnFront": false,
-    "showOnGallery": false
+    "showOnGallery": true
   },
   {
     "name": "artworkF004",
     "title": "はたはた",
     "showOnFront": false,
-    "showOnGallery": false
+    "showOnGallery": true
   },
   {
     "name": "artworkF005",
     "title": "海辺の路地",
     "showOnFront": false,
-    "showOnGallery": false
+    "showOnGallery": true
   },
   {
     "name": "artworkF006",
     "title": "私の住むまち",
     "showOnFront": true,
-    "showOnGallery": false
+    "showOnGallery": true
   },
   {
     "name": "artworkF007",
@@ -627,7 +627,7 @@
     "name": "artworkF008",
     "title": "海の中の森",
     "showOnFront": false,
-    "showOnGallery": false
+    "showOnGallery": true
   },
   {
     "name": "artworkF009",
@@ -645,7 +645,7 @@
     "name": "artworkF011",
     "title": "いずみ",
     "showOnFront": true,
-    "showOnGallery": false
+    "showOnGallery": true
   },
   {
     "name": "artworkF012",
@@ -657,31 +657,31 @@
     "name": "artworkF013",
     "title": "越前海岸からの版画ゆうびん",
     "showOnFront": false,
-    "showOnGallery": false
+    "showOnGallery": true
   },
   {
     "name": "artworkF014",
     "title": "豊竜丸",
     "showOnFront": false,
-    "showOnGallery": false
+    "showOnGallery": true
   },
   {
     "name": "artworkF015",
     "title": "能登家の松",
     "showOnFront": false,
-    "showOnGallery": false
+    "showOnGallery": true
   },
   {
     "name": "artworkF016",
     "title": "亀島",
     "showOnFront": false,
-    "showOnGallery": false
+    "showOnGallery": true
   },
   {
     "name": "artworkF017",
     "title": "焚き火",
     "showOnFront": true,
-    "showOnGallery": false
+    "showOnGallery": true
   },
   {
     "name": "artworkF018",
@@ -693,25 +693,25 @@
     "name": "artworkF019",
     "title": "デンデンムシノカナシミ",
     "showOnFront": false,
-    "showOnGallery": false
+    "showOnGallery": true
   },
   {
     "name": "artworkF020",
     "title": "rendez vous",
     "showOnFront": false,
-    "showOnGallery": false
+    "showOnGallery": true
   },
   {
     "name": "artworkF021",
     "title": "水仙畑2",
     "showOnFront": false,
-    "showOnGallery": false
+    "showOnGallery": true
   },
   {
     "name": "artworkF022",
     "title": "鹿踊りの始まり",
     "showOnFront": false,
-    "showOnGallery": false
+    "showOnGallery": true
   },
   {
     "name": "artworkF023",
@@ -723,7 +723,7 @@
     "name": "artworkF024",
     "title": "春の祭り",
     "showOnFront": false,
-    "showOnGallery": false
+    "showOnGallery": true
   },
   {
     "name": "artworkF025",
@@ -735,11 +735,113 @@
     "name": "artworkF026",
     "title": "一人は賑やか",
     "showOnFront": false,
-    "showOnGallery": false
+    "showOnGallery": true
   },
   {
     "name": "artworkF027",
     "title": "オハナ牧場",
+    "showOnFront": false,
+    "showOnGallery": false
+  },
+  {
+    "name": "artworkF028",
+    "title": "レースに棲まう天使",
+    "showOnFront": false,
+    "showOnGallery": false
+  },
+  {
+    "name": "artworkF029",
+    "title": "どんな真っ暗闇へも",
+    "showOnFront": false,
+    "showOnGallery": true
+  },
+  {
+    "name": "artworkF030",
+    "title": "詩人の窓辺より",
+    "showOnFront": false,
+    "showOnGallery": false
+  },
+  {
+    "name": "artworkF031",
+    "title": "迷鳥の行方",
+    "showOnFront": true,
+    "showOnGallery": false
+  },
+  {
+    "name": "artworkF032",
+    "title": "迷鳥の行方-夜",
+    "showOnFront": false,
+    "showOnGallery": false
+  },
+  {
+    "name": "artworkF033",
+    "title": "海",
+    "showOnFront": false,
+    "showOnGallery": false
+  },
+  {
+    "name": "artworkF034",
+    "title": "青い鳥",
+    "showOnFront": false,
+    "showOnGallery": false
+  },
+  {
+    "name": "artworkF035",
+    "title": "風",
+    "showOnFront": false,
+    "showOnGallery": false
+  },
+  {
+    "name": "artworkF036",
+    "title": "蝶",
+    "showOnFront": false,
+    "showOnGallery": false
+  },
+  {
+    "name": "artworkF037",
+    "title": "声",
+    "showOnFront": false,
+    "showOnGallery": false
+  },
+  {
+    "name": "artworkF038",
+    "title": "雪",
+    "showOnFront": false,
+    "showOnGallery": false
+  },
+  {
+    "name": "artworkF039",
+    "title": "宵の森",
+    "showOnFront": false,
+    "showOnGallery": false
+  },
+  {
+    "name": "artworkF040",
+    "title": "花と空と祈り",
+    "showOnFront": false,
+    "showOnGallery": false
+  },
+  {
+    "name": "artworkF041",
+    "title": "雪が降る前に",
+    "showOnFront": false,
+    "showOnGallery": false
+  },
+  {
+    "name": "artworkF042",
+    "title": "波",
+    "showOnFront": false,
+    "showOnGallery": false
+  },
+  {
+    "name": "artworkF043",
+    "title": "夜の音を聞く",
+    "showOnFront": false,
+    "showOnGallery": false
+  },
+  {
+    "name": "artworkF044",
+    "title": "冬の日",
     "showOnFront": false,
     "showOnGallery": false
   }

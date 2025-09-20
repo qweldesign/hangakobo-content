@@ -1,7 +1,7 @@
 ---
 title: "分室ニホ 二人展「ランデヴー。」"
 slug: "2023-rendezvous"
-img: "/content/images/thumb_2023-rendezvous.png"
+img: "/content/images/thumb_2023-rendezvous.jpg"
 date: "2023-10-12"
 summary: "この1年間で急速にご縁の深まった友高さんのEX LIBRIS主催で、高尾でリトグラフの制作を手掛けられている作家のわだときわさんと、二人展を開催することになりました。展示会のテーマは、「ランデヴー」。"
 ---
